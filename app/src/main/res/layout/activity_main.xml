@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.disen.tourguide.MainActivity">
+
+    <TextView
+        style="@style/splashscreen"
+        android:id="@+id/akwaba"
+        android:textSize="@dimen/small_text"
+        android:textColor="@color/orange"
+        android:layout_centerVertical="true"
+        android:text="@string/akwaba" />
+    <TextView
+        style="@style/splashscreen"
+        android:id="@+id/to"
+        android:textSize="@dimen/extra_small_text"
+        android:textColor="@color/ocean"
+        android:layout_below="@id/akwaba"
+        android:text="@string/to" />
+    <ImageView
+        android:layout_width="@dimen/small"
+        android:layout_below="@id/akwaba"
+        android:src="@drawable/palmtree"
+        android:layout_toRightOf="@+id/to"
+        android:layout_height="@dimen/extra_small" />
+    <TextView
+        style="@style/splashscreen"
+        android:id="@+id/IC"
+        android:textSize="@dimen/small_text"
+        android:textColor="@color/lightGreen"
+        android:layout_below="@id/to"
+        android:text="@string/IC" />
+
+</RelativeLayout>

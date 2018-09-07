@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="akwaba">Akwaba</string>
+    <string name="bienvenue">Bienvenue</string>
+    <string name="bonjour">Bonjour</string>
+    <string name="merci">Merci</string>
+    <string name="taxi">J \'ai besoin d\'un taxi</string>
+    <string name="telephone">Où puis je trouver une cabine?</string>
+    <string name="toilettes">Je cherche les toilettes</string>
+
+    <string name="fact1">Fact #1</string>
+    <string name="fact2">Fact #2</string>
+    <string name="fact3">Fact #3</string>
+    <string name="fact4">Fact #4</string>
+    <string name="fact5">Fact #5</string>
+    <string name="fact6">Fact #6</string>
+    <string name="fact7">Fact #7</string>
+    <string name="fact8">Fact #8</string>
+    <string name="fact9">Fact #9</string>
+    <string name="fact10">Fact #10</string>
+
+    <string name="saigon">La nuit du saigon</string>
+    <string name="ambroise">Chez Ambroise</string>
+    <string name="gourmand">Le jardin gourmand</string>
+    <string name="romaine">La taverne roamine</string>
+    <string name="mechoui">Chez Mechoui</string>
+    <string name="bateau">Le petit bateau</string>
+    <string name="restaurants">Restaurants</string>
+
+
+    <string name="prev">Previous name</string>
+    <string name="how_large">How large?</string>
+    <string name="choc">Cocoa na chocolate</string>
+    <string name="nienokoue_mount">Mount Nienokoue</string>
+    <string name="oscars">Let\'s go to the oscars</string>
+    <string name="dolphins_what">You said Dolphins?</string>
+    <string name="no_legs">No legs?</string>
+    <string name="two_capitals">Wait..what? two capitals?</string>
+    <string name="more_animals">Yaay! more animals</string>
+    <string name="fashion_here">Fashion\'s here</string>
+
+    <string name="title">title</string>
+    <string name="desc">desc</string>
+    <string name="location">location</string>
+    <string name="lat_lon">lat_lon</string>
+    <string name="image">image</string>
+    <string name="webpage">webpage</string>
+
+    <string name="abidjan">Abidjan</string>
+    <string name="yamoussoukro">Yamoussoukro</string>
+    <string name="soubre">Soubre</string>
+    <string name="bouna">Bouna</string>
+    <string name="abby">Lagune_aby</string>
+    <string name="lola">Lola prefecture</string>
+
+
+    <string name="banco">Banco National Park</string>
+    <string name="ehotile">Iles Ehotiles National Park</string>
+    <string name="mall">Playce Abidjan Mall</string>
+    <string name="stade">Stade Felix Houphouet Boigny</string>
+    <string name="tai">Tai National Park</string>
+    <string name="comoe">Comoe National Park</string>
+    <string name="pyramide">La pyramide</string>
+    <string name="basilica">Basilica of our Lady of Peace</string>
+    <string name="cathedrale">St Paul \'s Cathedral</string>
+    <string name="plateau">Le Plateau</string>
+    <string name="nimba">Mount Nimba Strict Nature Reserve</string>
+
+
+    <string name="welcome_dialect">Welcome</string>
+    <string name="welcome">Welcome</string>
+    <string name="hi">Hi</string>
+    <string name="thanks">Thanks</string>
+    <string name="taxi_en">I need a taxi</string>
+    <string name="phone">Where can I find a phone booth?</string>
+    <string name="toilet">I\'m looking for the restrooms?</string>
+
+    <string name="welcome_dialect_pronunciation">(Ah-kooah-bah)</string>
+    <string name="welcome_pronunciation">(bee-n-vae-new)</string>
+    <string name="hi_pronunciation">(bun-jewr)</string>
+    <string name="thanks_pronunciation">(Mer-cee)</string>
+    <string name="taxi_en_pronunciation">(J-bee-son-dun-taxi)</string>
+    <string name="phone_pronunciation">(Oo-peej-troo-vert-un-ko-been?)</string>
+    <string name="toilet_pronunciation">(J-cheer-sh-leh-toilettes)</string>
+
+
+    <string name="to">To</string>
+    <string name="IC">Ivory Coast</string>\
+    <string name="about">About</string>
+    <string name="topSights">Top Sights</string>
+    <string name="dictionary">Pocket dictionary</string>
+    <string name="facts">Fun Facts</string>
+    <string name="celebrities">Celebrities</string>
+    <string name="banco_webpage">http://www.oipr.ci/index.php/reseau/parcs-nationaux/parc-national-du-banco</string>
+    <string name="banco_loc">5.360497,-4.046781</string>
+    <string name="basilica_webpage">https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Peace</string>
+    <string name="basilica_loc">6.811774,-5.297110</string>
+    <string name="mall_webpage">http://www.playce-marcory.ci/</string>
+    <string name="mall_loc">5.301611,-3.992143</string>
+    <string name="comoe_webpage">http://www.oipr.ci/</string>
+    <string name="comoe_loc">9.001519,-3.499316</string>
+    <string name="tai_webpage">http://www.oipr.ci/index.php/reseau/parcs-nationaux/parc-national-de-tai</string>
+    <string name="tai_loc">5.689825,-6.939790</string>
+    <string name="stade_webpage">https://en.wikipedia.org</string>
+    <string name="stade_loc">5.329433,-4.018445</string>
+    <string name="nimba_webpage">https://en.wikipedia.org/wiki/Mount_Nimba_Strict_Nature_Reserve</string>
+    <string name="nimba_loc">7.637577, -8.418425</string>
+    <string name="ehotile_webpage">http://www.oipr.ci/index.php/reseau/parcs-nationaux/parc-national-des-iles-ehotile</string>
+    <string name="ehotile_loc">5.198037, -3.237908</string>
+    <string name="pyramide_webpage">https://en.wikipedia.org/wiki/La_Pyramide_(building)</string>
+    <string name="pyramide_loc">5.322300, -4.016476</string>
+    <string name="plateau_webpage">https://en.wikipedia.org/wiki/Plateau,_Ivory_Coast</string>
+    <string name="plateau_loc">5.323367, -4.022907</string>
+    <string name="cathedral_webpage">https://en.wikipedia.org/wiki/St._Paul%27s_Cathedral,_Abidjan</string>
+    <string name="cathedral_loc">5.332264, -4.020727</string>
+    <string name="parsegeolocation">http://maps.google.com/maps?q=loc:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info"> Côte d\'Ivoire is a West African country with beach resorts, rainforests and a French-colonial legacy. Abidjan, on the Atlantic coast, is the country\’s major urban center. Its modern landmarks include zigguratlike, concrete La Pyramide and St. Paul\'s Cathedral, a swooping structure tethered to a massive cross. North of the central business district, Banco National Park is a rainforest preserve with hiking trails.</string>
+    <string name="banco_info">Banco National Park is a national park in Côte d\'Ivoire located along Highway North in the district of Attécoubé. Banco National Park covers 30 km² and is an </string>
+    <string name="basilique_info">The Basilica of Our Lady of Peace is a Catholic minor basilica dedicated to Our Lady of Peace in Yamoussoukro, the administrative capital of Côte d\'Ivoire. </string>
+    <string name="comoe_info">Comoé National Park is near the northeastern corner of Côte d\’Ivoire, in West Africa. Its diverse terrain spans savannahs, grasslands and stretches of </string>
+    <string name="tai_info">Taï National Park is a national park in Côte d\'Ivoire containing one of the last areas of primary rainforest in West Africa. It was inscribed as a World </string>
+    <string name="mall_info">The PlaYce Marcory shopping center spans 20,000 square metres and features three distinct spaces: a Carrefour hypermarket with 3,200 square metres of retail surface area, a shopping mall with 55 stores, and a food court that seats over 400</string>
+    <string name="stade_info">Stade Félix Houphouët-Boigny, nicknamed "le Félicia", is a multi-purpose stadium, which can host football, rugby union and athletics, in Abidjan, Côte d\'Ivoire. It is the national stadium of the Côte d\'Ivoire national football team. It is named after the first president of the country, Félix Houphouët-Boigny, and is located in the commune of Le Plateau.</string>
+    <string name="nimba_info">Mount Nimba Strict Nature Reserve is a protected area and UNESCO World Heritage Site located in both Guinea and Côte d\'Ivoire, extending over a total of </string>
+    <string name="cathedrale_info">St Paul\'s Cathedral is a Roman Catholic cathedral located in the city of Abidjan, Côte d\'Ivoire. The cathedral, which was designed by architect Aldo Spirito, serves </string>
+    <string name="ehotiles_info">Îles Ehotilés National Park is a national park in Côte d\'Ivoire. It protects the Ehotilé Islands, which separate Aby Lagoon from the Atlantic Ocean.</string>
+    <string name="pyramide_info">La Pyramide is one of most enterprising architectural structures in Abidjan. Shaped in the form of a pyramid it is located right in the business centre of the city. Today it houses a gym and many other offices.</string>
+    <string name="plateau_info">The Plateau is the central business district of Abidjan adorned by many shops, offices and restaurants. Even after the capital of Côte d\'Ivoire was shifted to Yamoussoukro, many republic buildings like the Presidency and National Assembly are based at the The Plateau.</string>
+    <string name="previous">The Republic of Cote d\’Ivoire (previously known as the Ivory Coast) is a West African country that was once called the ‘teeth coast’ due to the trade in ivory. This West African country officially uses its French name, Côte d\’Ivoire (pronounced kot dee-VWAHR).</string>
+    <string name="cocoa">Cote d\’Ivoire is the world’s largest exporter of cocoa, which is used to make chocolate. It is also one of the largest producers and exporters of coffee and palm oil.</string>
+    <string name="city">Abidjan is the largest city in Cote d\’Ivoire and serves as its economic capital. It is the third-largest French-speaking population in the world.</string>
+    <string name="nienokoue">You don’t have to be a skilled climber to reach the 396 meters high top of “Mount Nienokoue” of Cote d\’Ivoire. You’ll only need a good physical condition to walk the rough terrain in front of the mountain. Mount Nienokoue is located in the Southern part of Tai National Park, which has been a World Heritage Site since 1982. This is one of the largest unspoiled areas of rainforest remaining in West Africa.</string>
+    <string name="oscar">The African country of Cote d\’Ivoire was the first black Republic and first non-English speaking country to win an Academy Award. The Oscar went to the country\’s film ‘Black and White in Color when it won the Academy Award for Best Foreign-Language Film</string>
+    <string name="dolphins">The striped dolphin has a similar size and shape to several other dolphins that inhabit the waters it does and they occur in the seas of Côte d\’Ivoire. However, its colouring is very different and makes it relatively easy to notice at sea. The underside is blue, white, or pink. One or two black bands circle the eyes, and then run across the back, to the flipper.</string>
+    <string name="lizards">Worm lizard Cynisca rouxae is a species which is endemic to Ivory Coast. This species of lizard is legless.</string>
+    <string name="capitals">Côte d\’Ivoire has two capitals, Yamoussoukro and Abidjan; they cover an area of 1,351 square miles (3,500 square kilometres) and 818 square miles (2,119 square kilometres) and had a population of 259,000 in 2014 and 4,860,000 in 2015 respectively.</string>
+    <string name="animals">Côte d\’Ivoire boasts leopards, antelopes, buffalos, pygmy hippopotamuses, monkeys, elephants, panthers, hyaenas, jackals, crocodiles, chimpanzees, zebras and lions, plus a species of worm lizard which is endemic and thus not found anywhere else in the world!</string>
+    <string name="fashion">The capital Abidjan is also the fashion capital of sub-Saharan Africa, where all of the latest fashions from Paris are available in trendy boutiques located around the capital.</string>
+</resources>
